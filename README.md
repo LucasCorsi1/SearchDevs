@@ -1,5 +1,5 @@
-# SearchDevsApplication
-Aplicação SearchDevs onde é possivel cadastrar e localizar desenvolvedores  por stacks de desenvolvimento, projeto proveniente da semana omnistack #10 Backend desenvolvido em NodeJS, Web em React e a parte mobile em React Native
+### SearchDevs
+`Aplicação SearchDevs onde é possivel cadastrar e localizar desenvolvedores  por stacks de desenvolvimento, projeto proveniente da semana omnistack #10 Backend desenvolvido em NodeJS, Web em React e a parte mobile em React Native`
 
 
 ![devs](https://user-images.githubusercontent.com/48248470/72473145-d4b57180-37c4-11ea-93ca-06c7e8903f54.png)
